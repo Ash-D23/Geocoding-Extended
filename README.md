@@ -57,6 +57,8 @@ Note: You can open the app with any of your desired react-native simulators. We 
 
 ## Mobile Version of App (React-native)
 
+![React-native](https://github.com/Ash-D23/Geocoding-T49/blob/master/readme-assets/React-native-2.png)
+
 This is a geocoding React-Native app that was developed as part of Hasura Product Developement Fellowship(HPDF) by Team 49.
 
 The Google Drive link to the .apk file is: https://drive.google.com/file/d/13emKwpCan3RBzD_EdhMpLpc5eLeyeWbs/view
@@ -164,6 +166,7 @@ Password is most probably: 'android'
 
 ## Web version of App (React-JS)
 
+![React-JS](https://github.com/Ash-D23/Geocoding-T49/blob/master/readme-assets/react-js-2.png)
 
 **This webapp lets you enter addresses of a source and a destination, and shows the following-**
 
