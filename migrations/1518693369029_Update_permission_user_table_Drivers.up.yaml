@@ -1,0 +1,11 @@
+- args:
+    role: user
+    table: Drivers
+  type: drop_insert_permission
+- args:
+    permission:
+      check:
+        Name: {}
+    role: user
+    table: Drivers
+  type: create_insert_permission

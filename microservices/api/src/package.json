@@ -1,0 +1,20 @@
+{
+  "name": "hello-node-js",
+  "version": "1.0.0",
+  "description": "A simple node-js-express app",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Jaison",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "request": "^2.83.0",
+    "cookie-parser": "^1.4.3",
+    "request-debug": "^0.2.0",
+    "geocoder": "^0.2.3",
+    "node-fetch": "^2.0.0"
+  }
+}

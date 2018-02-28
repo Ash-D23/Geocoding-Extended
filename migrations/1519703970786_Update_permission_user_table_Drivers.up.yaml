@@ -1,0 +1,17 @@
+- args:
+    role: user
+    table: Drivers
+  type: drop_update_permission
+- args:
+    permission:
+      columns:
+      - Name
+      - City
+      - Driver_id
+      - Phone_No
+      filter:
+        Driver_id:
+          $eq: X-HASURA-USER-ID
+    role: user
+    table: Drivers
+  type: create_update_permission

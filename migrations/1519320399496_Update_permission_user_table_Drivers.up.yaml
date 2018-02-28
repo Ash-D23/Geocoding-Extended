@@ -1,0 +1,14 @@
+- args:
+    role: user
+    table: Drivers
+  type: drop_select_permission
+- args:
+    permission:
+      columns:
+      - City
+      - Name
+      - Phone_No
+      filter: {}
+    role: user
+    table: Drivers
+  type: create_select_permission

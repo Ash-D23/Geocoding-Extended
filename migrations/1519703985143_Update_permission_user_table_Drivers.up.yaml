@@ -1,0 +1,12 @@
+- args:
+    role: user
+    table: Drivers
+  type: drop_delete_permission
+- args:
+    permission:
+      filter:
+        Driver_id:
+          $eq: X-HASURA-USER-ID
+    role: user
+    table: Drivers
+  type: create_delete_permission

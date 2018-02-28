@@ -1,0 +1,10 @@
+- args:
+    permission:
+      columns:
+      - City
+      - Name
+      - Phone_No
+      filter: {}
+    role: anonymous
+    table: Drivers
+  type: create_select_permission

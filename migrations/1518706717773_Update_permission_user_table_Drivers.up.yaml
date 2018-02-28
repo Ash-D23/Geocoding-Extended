@@ -1,0 +1,12 @@
+- args:
+    role: user
+    table: Drivers
+  type: drop_insert_permission
+- args:
+    permission:
+      check:
+        Name:
+          $eq: X-HASURA-USER-ID
+    role: user
+    table: Drivers
+  type: create_insert_permission
