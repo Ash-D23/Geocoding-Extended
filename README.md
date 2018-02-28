@@ -57,7 +57,7 @@ Note: You can open the app with any of your desired react-native simulators. We 
 
 ## Mobile Version of App (React-native)
 
-![React-native](https://github.com/Ash-D23/Geocoding-T49/blob/master/readme-assets/React-native-2.png)
+![React-native](https://github.com/Ash-D23/Geocoding-Extended/blob/master/readme-assets/screenshot_20180228-113858.png)
 
 This is a geocoding React-Native app that was developed as part of Hasura Product Developement Fellowship(HPDF) by Team 49.
 
@@ -113,6 +113,8 @@ For more details: http://nativebase.io/docs/v0.5.13/getting-started
 8) The map and corresponding UI will appear on your phone screen.
 
 9) To edit the code open App.js in the project directory(Preferrably in Atom editor) and make necessary changes and save the file. The changes will be hot reloaded.
+
+![React-native](https://github.com/Ash-D23/Geocoding-Extended/blob/master/readme-assets/screenshot_20180228-114935.png)
 
 ### Backend Api
 
