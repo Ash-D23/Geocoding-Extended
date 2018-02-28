@@ -166,7 +166,7 @@ Password is most probably: 'android'
 
 ## Web version of App (React-JS)
 
-![React-JS](https://github.com/Ash-D23/Geocoding-T49/blob/master/readme-assets/react-js-2.png)
+![React-JS](https://github.com/Ash-D23/Geocoding-Extended/blob/master/readme-assets/react-js-2.png)
 
 **This webapp lets you enter addresses of a source and a destination, and shows the following-**
 
